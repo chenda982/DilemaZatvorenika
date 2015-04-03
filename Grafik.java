@@ -14,7 +14,7 @@ import org.jfree.data.category.DefaultCategoryDataset;
 
 /**
  *
- * @author Cheda
+ * @author ChedaVelja
  */
 public class Grafik {
     
